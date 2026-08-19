@@ -130,10 +130,10 @@ nodes expanded, < 0.05s compute time** (see console output / `SUMMARY.pdf`).
 
 ## 7. Team
 
-| Role | Member |
+| Register Number | Member |
 |---|---|
-| Track 3 owner | *Simran* |
-| Track 1 | *Teammate* |
-| Track 2 | *Teammate* |
+| 2441657| *Simran Rao* |
+| 2441663 | *Zehrah Shameer* |
+| 2441652 | *Sasha Alwin* |
 
 Course: *(fill in course code)* — Group ID: *(fill in)*
