@@ -136,4 +136,4 @@ nodes expanded, < 0.05s compute time** (see console output / `SUMMARY.pdf`).
 | 2441663 | *Zehrah Shameer* |
 | 2441652 | *Sasha Alwin* |
 
-Course: *(fill in course code)* — Group ID: *(fill in)*
+
